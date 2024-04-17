@@ -1,8 +1,8 @@
 echo "enter your age"
 read age
-if [ $age -eq 18 ] ;
+if [ $age -gt 17 ] ;
 then
-echo "your are eligible"
+echo "your not eligible"
 else
-echo "not eligible"
+echo "eligible"
 fi
