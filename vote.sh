@@ -6,3 +6,5 @@ echo "your not eligible"
 else
 echo "eligible"
 fi
+1- how to create a agent 
+2- how to create pipline 
